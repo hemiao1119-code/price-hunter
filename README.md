@@ -58,6 +58,20 @@ python scripts/review_summary.py --query "iPhone 16 Pro"
 2. 在 WorkBuddy 中说出："帮我比价 iPhone 16 Pro"
 3. 获取完整比价报告
 
+### 在其他 AI Agent 平台使用
+
+PriceHunter 支持多种 AI Agent 平台集成：
+
+| 平台 | 集成方式 | 文档 |
+|------|---------|------|
+| **OpenClaw** | Skill 克隆安装 | [查看详情](INTEGRATION.md#openclaw-集成) |
+| **Cursor** | `.cursorrules` 配置 | [查看详情](INTEGRATION.md#cursor-集成) |
+| **Claude Desktop** | MCP 协议 | [查看详情](INTEGRATION.md#claude-desktop-mcp) |
+| **Dify/FastGPT** | HTTP API / 代码节点 | [查看详情](INTEGRATION.md#其他-agent-平台) |
+| **Coze/扣子** | 插件/API 调用 | [查看详情](INTEGRATION.md#其他-agent-平台) |
+
+👉 [完整跨平台集成指南](INTEGRATION.md)
+
 ---
 
 ## 📊 效果展示
