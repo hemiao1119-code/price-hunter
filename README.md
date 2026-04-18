@@ -222,8 +222,8 @@ PriceHunter 采用三级降级策略，确保数据获取稳定性：
 
 ## 📞 联系我们
 
-- 作者：[@yourusername](https://github.com/yourusername)
-- 项目主页：[https://github.com/yourusername/price-hunter](https://github.com/yourusername/price-hunter)
+- 作者：[@hemiao1119-code](https://github.com/hemiao1119-code)
+- 项目主页：[https://github.com/hemiao1119-code/price-hunter](https://github.com/hemiao1119-code/price-hunter)
 - 问题反馈：[Issues](https://github.com/yourusername/price-hunter/issues)
 
 ---
