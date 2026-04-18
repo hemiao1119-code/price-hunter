@@ -1,0 +1,22 @@
+# PriceHunter 依赖
+
+# 基础依赖
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+
+# 数据解析
+pandas>=1.5.0
+numpy>=1.23.0
+
+# 可选：无头浏览器（用于抖音/淘宝抓取）
+# playwright>=1.40.0
+
+# 可选：LLM 情感分析
+# openai>=1.0.0
+# dashscope>=1.13.0
+
+# 开发依赖
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
